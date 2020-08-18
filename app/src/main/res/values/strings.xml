@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Employee Evaluation Software</string>
+
+    <string name="button">Sign In</string>
+    <string name="talent_corner_hr_services">Talent Corner HR Services</string>
+    <string name="sign_in1">Sign In</string>
+    <string name="hi_there_nice_to_see_you_again">Hi there! Nice to see you again.</string>
+    <string name="email1">Email</string>
+    <string name="textviewemail">TextViewEmail</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="example_email_com">example@email.com</string>
+    <string name="_12345">12345</string>
+    <string name="sign_in">Sign In</string>
+    <string name="or_use_one_of_your_social_profiles">or use one of your social profiles</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="sign_up">Sign Up</string>
+</resources>
